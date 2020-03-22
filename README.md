@@ -31,4 +31,4 @@ Program that counts all words in Shakespeare's two famous books and sort most us
 ![Image of Romeo and Juliet](https://raw.githubusercontent.com/80YearOldElephant/Data-Visualization/master/wordCounter/most_used_words_of_hamlet.png)
 
 
-There are also svg files for letter frequency and word count projects but unfortunately those can't be hosted on github.
+There are also svg files for letter frequency and word count projects but unfortunately those can't be hosted on github. If you are intested in looking at them you can download them from projects foleders.
