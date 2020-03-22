@@ -17,7 +17,7 @@ Python script that counts each letter in Serbian and English dictionary and comp
 ![Image of English Word Frequency](https://raw.githubusercontent.com/80YearOldElephant/Data-Visualization/master/lettersFrequency/letterFrequency.png)
 
 
-![Image of Serbian and English comaparason]https://raw.githubusercontent.com/80YearOldElephant/Data-Visualization/master/lettersFrequency/dictionaryComparisonChart.png)
+![Image of Serbian and English comaparason](https://raw.githubusercontent.com/80YearOldElephant/Data-Visualization/master/lettersFrequency/dictionaryComparisonChart.png)
 
 
 ## Word Counter
